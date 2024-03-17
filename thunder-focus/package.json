@@ -2,7 +2,7 @@
   "name": "thunder-focus",
   "displayName": "Thunder Focus",
   "description": "A Powerful Thunder Theme To Focus",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "REPTaiLE",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "dark theme",
     "thunder theme",
     "focus theme",
-    "focus", 
+    "focus",
     "thunder",
     "thundertheme"
   ],
