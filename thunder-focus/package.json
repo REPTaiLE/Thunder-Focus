@@ -1,0 +1,35 @@
+{
+  "name": "thunder-focus",
+  "displayName": "Thunder Focus",
+  "description": "A Powerful Thunder Theme To Focus",
+  "version": "0.0.1",
+  "publisher": "REPTaiLE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/REPTaiLE/Thunder-Focus.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "thunder theme",
+    "focus theme",
+    "focus", 
+    "thunder",
+    "thundertheme"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thunder Focus Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ThunderFocus.json"
+      }
+    ]
+  }
+}
