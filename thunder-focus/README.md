@@ -1,16 +1,34 @@
-# thunder-focus README
+# Thunder Focus
 
-## Working with Markdown
+Thunder Focus is a [Visual Studio Code](https://code.visualstudio.com) theme designed for focus. Due to its color palette it is perfect for those dark nights.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Color Palette
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The color main color palette is very simple. It's composed of 3 tones of blue and 3 tones of yellow as shown bellow:
 
-## For more information
+![Color Palette](/images/palette.jpeg)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+The syntax palette is composed by the following colors:
 
-**Enjoy!**
+* <font color="#de1b2a">Variables and Properties</font>
+* <font color="#d162f2">Keywords</font>
+* <font color="#ff7c00">Numbers</font>
+* <font color="#f7d89e">Classes and Constants</font>
+* <font color="#51a316">Strings</font>
+* <font color="#00e3ff">Operators and Special Functions</font>
+* <font color="#949fb6">Operators and Special Functions</font>
+
+![Theme Image](/images/theme-image.jpeg)
+
+The installation method is very simple:
+
+1. Install Visual Studio Code
+2. Launch Visual Studio Code
+3. Choose Extensions from menu
+    ![Extensions](/images/extensions.jpeg)
+4. Search for "Thunder Focus"
+    ![Market Place](/images/marketplace.jpeg)
+5. Click Install to install it
+6. From the menu bar click: Code > Preferences > Color Theme > Thunder Focus
+
+**Happy Coding! :computer:**
