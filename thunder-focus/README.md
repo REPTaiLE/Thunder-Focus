@@ -6,25 +6,31 @@ Thunder Focus is a [Visual Studio Code](https://code.visualstudio.com) theme des
 
 The color main color palette is very simple. It's composed of 3 tones of blue and 3 tones of yellow as shown bellow:
 
-![Color Palette](/images/palette.jpeg)
+<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/palette.jpeg">
+
+<br />
 
 The syntax palette is composed by the following colors:
 
-* Variables and Properties <img align="center" src="/images/red.png" width="20px" height="20px" alt="Color Red">
+* Variables and Properties <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/red.png" width="20px" height="20px" alt="Color Red">
 
-* Keywords <img align="center" src="/images/violet.png" width="20px" height="20px" alt="Color Violet">
+* Keywords <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/violet.png" width="20px" height="20px" alt="Color Violet">
 
-* Numbers <img align="center" src="/images/orange.png" width="20px" height="20px" alt="Color Orange">
+* Numbers <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/orange.png" width="20px" height="20px" alt="Color Orange">
 
-* Classes and Constants <img align="center" src="/images/creme.png" width="20px" height="20px" alt="Color Creme">
+* Classes and Constants <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/creme.png" width="20px" height="20px" alt="Color Creme">
 
-* Strings <img align="center" src="/images/red.png" width="20px" height="20px" alt="Color Red">
+* Strings <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/green.png" width="20px" height="20px" alt="Color Green">
 
-* Operators and Special Functions <img align="center" src="/images/sky-blue.png" width="20px" height="20px" alt="Color Sky Blue">
+* Operators and Special Functions <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/sky-blue.png" width="20px" height="20px" alt="Color Sky Blue">
 
-* Comments <img align="center" src="/images/grey.png" width="20px" height="20px" alt="Color Grey">
+* Comments <img align="center" src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/grey.png" width="20px" height="20px" alt="Color Grey">
 
-![Theme Image](/images/theme-image.jpeg)
+<br />
+
+<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/theme-image.jpeg">
+
+<br />
 
 The installation method is very simple:
 
@@ -32,13 +38,15 @@ The installation method is very simple:
 2. Launch Visual Studio Code
 3. Choose Extensions from menu
 
-![Extensions](/images/extensions.jpeg)
+<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/extensions.jpeg">
 
 4. Search for "Thunder Focus"
 
-![Market Place](/images/marketplace.jpeg)
+<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/marketplace.jpeg">
 
 5. Click Install to install it
 6. From the menu bar click: Code > Preferences > Color Theme > Thunder Focus
 
-**Happy Coding! :computer:**
+<br />
+
+**Happy Coding!** <img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/white-laptop.png" alt="White Laptop" width="40px" height="30px" align="center">
