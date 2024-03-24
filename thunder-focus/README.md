@@ -6,7 +6,7 @@ Thunder Focus is a [Visual Studio Code](https://code.visualstudio.com) theme des
 
 The color main color palette is very simple. It's composed of 3 tones of blue and 3 tones of yellow as shown bellow:
 
-<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/palette.jpeg">
+<img src="https://raw.githubusercontent.com/REPTaiLE/Thunder-Focus/main/thunder-focus/images/theme-palette.jpeg">
 
 <br />
 
